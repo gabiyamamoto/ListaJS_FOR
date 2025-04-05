@@ -6,4 +6,4 @@ for (let i = 1; i <= 50; i++) {
     }
 }
 
-console.log (`A quantidade de números divisíveis por 3 entre 1 e 50 é: ${qntNumeros}`);
+console.log (`A quantidade de números divisíveis por 3 entre 1 e 50 é: ${qntNumeros}`)
